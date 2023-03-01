@@ -21,6 +21,7 @@ public class CalculadoraGitHub {
         num2=b;
     }
     
+    /**Este comentario es para el ejercicio 7*/
    
     /*
     *@exception AritmeticException
